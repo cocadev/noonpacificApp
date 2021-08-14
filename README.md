@@ -1,6 +1,6 @@
-# rn-noonpacific
+Noonpacific App
 
-Jurado react-native project clone
+react-native project clone
 
 https://noonpacific.com/
 https://play.google.com/store/apps/details?id=com.np.noonpacific&hl=en&gl=US
