@@ -1,4 +1,4 @@
-Noonpacific App
+Noonpacific App 2
 
 react-native project clone
 
